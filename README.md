@@ -21,7 +21,6 @@ verniafinal
 ├── cypress # Folder containing all cypress files
 │   
 ├── cypress.config.js # File contains configuration for cypress in your project
-├── eslint.config.mjs # File contains configuration for eslint in your project
 ├── index.css # Contains global CSS styles applied throughout the project.
 ├── index.html # The main HTML file sets up the structure of the product list page.
 ├── index.js # Handles the logic for displaying products, filtering, , search functionality and other interactive features.
@@ -38,6 +37,12 @@ The main HTML file sets up the structure of the product list page.
 ### index.css
 
 Contains global CSS styles applied throughout the project and responsive design
+
+======================================================================================================================================================================
+
+### cypress.config.js
+
+File contains configuration for cypress in your project.
 
 ======================================================================================================================================================================
 
