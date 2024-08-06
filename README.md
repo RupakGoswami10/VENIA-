@@ -7,7 +7,8 @@ Venia is a simple product list page built using pure HTML, JavaScript, and CSS. 
 
 - **Product Listing:** Displays a list of products with images, names, and prices.
 - **Product Filtering:** Allows users to filter products by categories.
-- **Product Sorting:** Allows users to filter sort products based on prices 
+- **Product Sorting:** Allows users to filter sort products based on prices.
+- **Product Search:** Allows user to search products.
 - **Responsive Design:** Ensures that the product list page looks good on both desktop and mobile devices.
 
 ======================================================================================================================================================================
