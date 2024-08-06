@@ -26,6 +26,20 @@ verniafinal
 ├── index.js # Handles the logic for displaying products, filtering, , search functionality and other interactive features.
 ├── package-lock.json
 └── package.json
+VeniaFinal
+├── assets
+│   └── images # Folder containing all static assets
+│       
+├── cypress # Folder containing all cypress files
+│   ├── CYPRESS INSTALLATION.docx # Cypress installation guide
+│   ├── e2e
+│   │   └── index.cy.js # File to enter your testcases
+├── cypress.config.js # File contains configuration for cypress in your project
+├── index.css # Contains global CSS styles applied throughout the project.
+├── index.html # The main HTML file sets up the structure of the product list page.
+├── index.js  # Handles the logic for displaying products, filtering, , search functionality and other interactive features.
+├── package-lock.json
+└── package.json 
 
 ======================================================================================================================================================================
 ### index.html
@@ -40,6 +54,12 @@ Contains global CSS styles applied throughout the project and responsive design
 
 ======================================================================================================================================================================
 
+### index.js
+
+Handles the logic for displaying products, filtering, sorting, search functionality and other interactive features.
+
+======================================================================================================================================================================
+
 ### cypress.config.js
 
 File contains configuration for cypress in your project.
@@ -47,11 +67,12 @@ File contains configuration for cypress in your project.
 ======================================================================================================================================================================
 
 
-### index.js
+### CYPRESS INSTALLATION.docx 
 
-Handles the logic for displaying products, filtering, sorting, search functionality and other interactive features.
+Cypress installation guide
 
 ======================================================================================================================================================================
+
 
 ## Acknowledgments
 
